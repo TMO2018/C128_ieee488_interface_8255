@@ -1,0 +1,10 @@
+IC1 : SN7400 (DIL14 7,62mm)
+IC2 : 8255 (DIL40 15,24mm)
+IC3 : SN75160P (DIL20 7,62mm)
+IC4 : SN75161P (DIL20 7,62mm)
+C1,C2,C3,C5 : capacitor ceramic 100nF SMD 1206
+C4 : capacitor electrolyt radial 15uF 16V D5.0 RM2.5
+RN1 : resistor array SIP9 8x10k
+SW1 : button switch DIP x8 W7.62mm
+SW2 : push button print 6mm
+J3 : pin header 2x12 straight RM2.54
